@@ -6,3 +6,8 @@ def test_print_def(text):
 
 def test_add_var(x, y):
   return (x + y)
+
+# COMMAND ----------
+
+def test_multiply_var(x, y):
+  return (x * y)
