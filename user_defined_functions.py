@@ -11,3 +11,6 @@ def test_add_var(x, y):
 
 def test_multiply_var(x, y):
   return (x * y)
+
+def test_divide_vars(x, y):
+  return (x / y)
