@@ -4,13 +4,16 @@ def test_print_def(text):
 
 # COMMAND ----------
 
-def test_add_var(x, y):
+def test_add_vars(x, y):
   return (x + y)
 
 # COMMAND ----------
 
-def test_multiply_var(x, y):
+def test_multiply_vars(x, y):
   return (x * y)
 
 def test_divide_vars(x, y):
   return (x / y)
+
+def osszead(x, y):
+  return(x + y)
