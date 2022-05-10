@@ -17,3 +17,8 @@ def test_divide_vars(x, y):
 
 def osszead(x, y):
   return(x + y)
+
+# COMMAND ----------
+
+def kivon(x, y):
+  return (x - y)
